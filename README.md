@@ -1,2 +1,4 @@
 # tom_and_jerry_store_al_wasti_center
 tom_and_jerry_store_al_wasti_center
+
+git remote add origin git@github.com:LearnCodingEasy/tom_and_jerry_store_al_wasti_center.git
